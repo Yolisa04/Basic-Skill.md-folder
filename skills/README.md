@@ -139,10 +139,10 @@ This project aims to become a reusable engineering skill library suitable for:
 # Basic Skill Structure
 
 ---
-name:
-description:
-version:
-tags:
+-name:
+-description:
+-version:
+-tags:
 
 
 Purpose
@@ -162,3 +162,4 @@ Output Format
 Validation Checklist
 
 Success Criteria
+---

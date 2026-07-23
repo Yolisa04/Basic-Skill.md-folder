@@ -135,3 +135,30 @@ This project aims to become a reusable engineering skill library suitable for:
 - Documentation generation
 - Code review
 - Architecture guidance
+
+# Basic Skill Structure
+
+---
+name:
+description:
+version:
+tags:
+---
+
+# Purpose
+
+# When to Use
+
+# Objectives
+
+# Workflow
+
+# Best Practices
+
+# Common Pitfalls
+
+# Output Format
+
+# Validation Checklist
+
+# Success Criteria

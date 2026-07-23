@@ -145,20 +145,20 @@ version:
 tags:
 ---
 
-# Purpose
+-Purpose
 
-# When to Use
+-When to Use
 
-# Objectives
+-Objectives
 
-# Workflow
+-Workflow
 
-# Best Practices
+-Best Practices
 
-# Common Pitfalls
+-Common Pitfalls
 
-# Output Format
+-Output Format
 
-# Validation Checklist
+-Validation Checklist
 
-# Success Criteria
+-Success Criteria

@@ -143,22 +143,22 @@ name:
 description:
 version:
 tags:
----
 
--Purpose
 
--When to Use
+Purpose
 
--Objectives
+When to Use
 
--Workflow
+Objectives
 
--Best Practices
+Workflow
 
--Common Pitfalls
+Best Practices
 
--Output Format
+Common Pitfalls
 
--Validation Checklist
+Output Format
 
--Success Criteria
+Validation Checklist
+
+Success Criteria

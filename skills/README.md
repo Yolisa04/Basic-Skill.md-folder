@@ -138,28 +138,35 @@ This project aims to become a reusable engineering skill library suitable for:
 
 # Basic Skill Structure
 
----
--name:
--description:
--version:
--tags:
+## Metadata
+- **Name**:  
+- **Description**:  
+- **Version**:  
+- **Tags**:  
 
+## Purpose
+What this skill is designed to achieve.
 
-Purpose
+## When to Use
+The scenarios or contexts where this skill is most appropriate.
 
-When to Use
+## Objectives
+The specific learning or performance goals of this skill.
 
-Objectives
+## Workflow
+Step-by-step process for executing the skill.
 
-Workflow
+## Best Practices
+Recommended approaches and techniques for optimal results.
 
-Best Practices
+## Common Pitfalls
+Frequent mistakes or challenges to avoid.
 
-Common Pitfalls
+## Output Format
+The expected structure and format of the skill's deliverables.
 
-Output Format
+## Validation Checklist
+Key items to verify before finalizing the output.
 
-Validation Checklist
-
-Success Criteria
----
+## Success Criteria
+Measurable outcomes that indicate the skill has been successfully applied.

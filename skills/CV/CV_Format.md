@@ -1,140 +1,87 @@
-# CV Specialization & Tailoring Skill
-
-## Purpose
-
-This skill defines how to create, tailor, review, and improve CVs for software engineering and technology roles.
-
-The primary objective is to ensure that every CV communicates a clear professional specialization rather than presenting the candidate as a generic software engineer with an unnecessarily broad collection of technologies.
-
-The CV must make it immediately clear:
-
-- What type of engineer the candidate is.
-- What technical area they specialize in.
-- What technology stack they are strongest in.
-- What evidence proves that specialization.
-- What type of role the CV is targeting.
-
-The CV should make the recruiter understand the candidate's professional identity within a few seconds.
 
 ---
 
-## 1. Core Principle: Pick a Niche
+## 29. Final CV Quality Checklist
 
-A CV must not attempt to target every possible software engineering position simultaneously.
+Before submitting any CV, verify:
 
-Instead:
+### Positioning
+- [ ] One clear target role.
+- [ ] One primary specialization.
+- [ ] Headline reflects the specialization.
+- [ ] Summary reinforces the specialization.
 
-> **One CV = One primary professional identity = One target role family.**
+### Technical Stack
+- [ ] Core technologies appear prominently.
+- [ ] Skills are relevant to the target.
+- [ ] No unnecessary technology dumping.
+- [ ] Technologies are genuinely supported.
 
-**Examples:**
+### Experience
+- [ ] Strongest relevant experience appears first.
+- [ ] Bullets demonstrate technical ability.
+- [ ] Results are quantified where genuinely measurable.
+- [ ] Unsupported claims have been removed or softened.
 
-- Backend Software Engineer
-- Python Backend Developer
-- Java Backend Developer
-- Full-Stack Developer
-- React Frontend Developer
-- DevOps Engineer
-- Cloud Engineer
-- Embedded Software Engineer
-- Computer Networking Engineer
-- AI/ML Engineer
-- Data Engineer
-- Cybersecurity Engineer
+### Projects
+- [ ] Projects support the target specialization.
+- [ ] Technical implementation is clear.
+- [ ] Projects demonstrate practical ability.
+- [ ] Irrelevant projects do not dominate the CV.
 
-A candidate may have experience across several areas, but each CV should emphasize the area most relevant to the position being targeted.
+### Truthfulness
+- [ ] No invented metrics.
+- [ ] No inflated expertise.
+- [ ] No false responsibilities.
+- [ ] No unsupported technologies.
+- [ ] All claims can be defended in an interview.
 
----
+### Recruiter Clarity
+- [ ] The candidate's specialization is obvious.
+- [ ] The primary technology is obvious.
+- [ ] The target role is obvious.
+- [ ] The CV does not feel like a generic technology inventory.
 
-## 2. Why Specialization Matters
-
-A broad CV can create uncertainty.
-
-For example, a CV containing:
-
-> Python, Java, C, C++, JavaScript, React, Django, Docker, Kubernetes, AWS, Linux, Networking, Embedded Systems, AI, Machine Learning, Cybersecurity
-
-may technically demonstrate breadth, but it does not automatically communicate what the candidate is particularly good at.
-
-The recruiter should not have to determine the candidate's specialization themselves.
-
-The CV must answer:
-
-> **"What would I hire this person to do?"**
-
-— immediately.
-
----
-
-## 3. CV Specialization Hierarchy
-
-Use the following hierarchy when deciding how specific a CV should be.
-
-### Level 1 — Engineering Domain
-
-Choose one:
-
-- Software Engineering
-- Backend Engineering
-- Frontend Engineering
-- Full-Stack Engineering
-- DevOps
-- Cloud Engineering
-- Embedded Systems
-- Networking
-- Data Engineering
-- AI/ML
-- Cybersecurity
-
-### Level 2 — Primary Specialization
-
-Narrow the domain further.
-
-**Examples:**
-
-- Software Engineering → Backend Engineering → Python Backend Engineering
-- Software Engineering → Frontend Engineering → React Frontend Engineering
-- Software Engineering → Embedded Systems → C/C++ Embedded Systems
-
-### Level 3 — Supporting Stack
-
-Identify the technologies that reinforce the specialization.
-
-**For a Python backend CV:**
-
-- Python, FastAPI, Django, REST APIs, PostgreSQL, MongoDB, Redis, Docker, Linux, Git
-
-**For a Java backend CV:**
-
-- Java, Spring Boot, REST APIs, PostgreSQL, Docker, Linux, Git
-
-**For a React frontend CV:**
-
-- JavaScript, TypeScript, React, HTML, CSS, REST APIs, Git
-
-The supporting stack should reinforce the identity rather than overwhelm it.
+### ATS
+- [ ] Relevant job-description terminology is included naturally.
+- [ ] Important technologies appear in context.
+- [ ] No keyword stuffing.
+- [ ] Formatting remains readable.
 
 ---
 
-## 4. The Primary CV Rule
+## 30. Final Principle
 
-Every CV must have one clearly identifiable primary specialization.
+The purpose of a CV is **not** to prove that a candidate has touched every technology.
 
-The following test must pass:
+The purpose is to make the candidate's **most valuable and relevant capability unmistakable**.
 
-> If someone reads only the CV headline, summary, first experience/project entries, and top skills, they should be able to identify the target specialization without guessing.
+Therefore:
 
-If they cannot, revise the CV.
+> **Do not make the CV broader just to qualify for more jobs. Make it clearer so the right jobs can recognize the candidate.**
 
----
+A candidate can maintain multiple specialized CVs while keeping one truthful master record.
 
-## 5. Do Not Create a Generic "Everything" CV
+**The strategy is:**
+Master Experience
+↓
+Choose Target Role
+↓
+Choose Specialization
+↓
+Select Supporting Evidence
+↓
+Build Specialized CV
+↓
+Tailor to Job Description
+↓
+Validate Every Claim
+↓
+Submit
 
-Avoid creating a CV that tries to equally represent:
 
-> Backend + Frontend + Embedded + Networking + DevOps + AI + Cybersecurity
+The strongest CV is not necessarily the one containing the most technologies.
 
-unless the specific position genuinely requires that combination.
+It is the one where the recruiter can quickly understand:
 
-Instead, create **specialized CV variants**.
-
-For example:
+> *"This is what this candidate is good at, this is the evidence, and this is the role they are prepared for."*
